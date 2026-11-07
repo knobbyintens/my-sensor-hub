@@ -1,6 +1,6 @@
 # text-toolkit Module Index
 
-Registry refreshed in maintenance pass 2.
+Registry refreshed in maintenance pass 3.
 
 ## Module Registry
 
