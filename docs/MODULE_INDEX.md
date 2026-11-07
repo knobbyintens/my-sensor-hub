@@ -1,6 +1,6 @@
 # text-toolkit Module Index
 
-Registry maintained by the text-toolkit maintainers.
+Registry refreshed in maintenance pass 1.
 
 ## Module Registry
 
